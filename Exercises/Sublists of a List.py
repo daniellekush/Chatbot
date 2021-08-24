@@ -1,3 +1,5 @@
+#Finds every possible sublist in a given list
+
 print("Print sublists of a list.")
 
 usr_input = input("Enter a list: ")
