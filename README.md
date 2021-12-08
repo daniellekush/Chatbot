@@ -1,2 +1,2 @@
-# Python
-My Python projects and exercises
+# Chatbot
+My Python chatbot with a UI made using Tensorflow and Tkinter
